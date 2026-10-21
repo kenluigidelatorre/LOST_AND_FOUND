@@ -1,3 +1,10 @@
+
+import AppRoutes from "./routes/AppRoutes.jsx";
+
+export default function App() {
+  return <AppRoutes />;
+}
+
 import { useState } from 'react'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
@@ -120,3 +127,4 @@ function App() {
 }
 
 export default App
+
