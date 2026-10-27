@@ -17,7 +17,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
 );
 
-);
 
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
