@@ -6,7 +6,7 @@ export default function App() {
 
 }
 
-}
+
 
 import { useState } from 'react'
 import heroImg from './assets/hero.png'
