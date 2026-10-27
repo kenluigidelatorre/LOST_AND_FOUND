@@ -3,6 +3,9 @@ import AppRoutes from "./routes/AppRoutes.jsx";
 
 export default function App() {
   return <AppRoutes />;
+
+}
+
 }
 
 import { useState } from 'react'
@@ -127,4 +130,5 @@ function App() {
 }
 
 export default App
+
 
